@@ -9,14 +9,13 @@
       "group": "Core"
     },
     {
-      "name": "Gorilla Cosmetics",
+      "name": "Gorilla Shirts",
       "tag": "",
-      "gitPath": "legoandmars/GorillaCosmetics",
+      "gitPath": "developer9998/GorillaShirts",
       "releaseId": 0,
-      "author": "Bobbie",
+      "author": "developer9998",
       "group": "Cosmetic",
       "dependencies": [
-        "Newtonsoft.JSON"
       ]
     },
     {
