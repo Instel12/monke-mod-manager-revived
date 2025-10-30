@@ -44,17 +44,28 @@
       ]
     },
     {
+      "name": "Grate",
+      "tag": "",
+      "gitPath": "The-Graze/Grate",
+      "releaseId": 0,
+      "author": "Graze & KyleTheScientist",
+      "group": "Gameplay",
+      "dependencies": [
+        "Utilla"
+      ]
+    },
+    {
       "name": "Utilla",
       "tag": "",
-      "gitPath": "legoandmars/Utilla",
+      "gitPath": "Developer9998/Utilla",
       "releaseId": 0,
-      "author": "Bobbie",
+      "author": "legoandmars & developer9998",
       "group": "Libraries"
     },
     {
       "name": "Computer Interface",
       "tag": "",
-      "gitPath": "ToniMacaroni/ComputerInterface",
+      "gitPath": "DecalFree/ComputerInterface",
       "releaseId": 0,
       "author": "Toni Macaroni",
       "group": "Libraries",
